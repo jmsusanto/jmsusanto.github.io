@@ -4,3 +4,5 @@ UW-Madison BS. Mechanical Engineering and Data Science '23 |  MIT Sloan MBAn Can
 
 This portfolio is a compilation of jupyter notebooks which I created to explore my interests, apply various data science techniques, and explore the use of machine learning across various datasets
 
+
+
